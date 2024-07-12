@@ -1,0 +1,6 @@
+
+BufType: Vec
+
+BufSize: 4kb
+Total time for 5 files: 257.272163
+Average 51.4544326
